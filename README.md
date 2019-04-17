@@ -40,11 +40,11 @@ I dont know what to add more on it
 ## Technologies Used
 
 
--html5 https://www.w3schools.com/html/ 
--css https://www.w3schools.com/css/css_intro.asp for styling
--bootstrap 4 https://getbootstrap.com/ to build the grid and make it responsive for all devices
--Balsamiq https://balsamiq.com/?gclid=CjwKCAjwndvlBRANEiwABrR32Mzzb1wWuG0slcCQDwB1B2W9OBv8pacL7BzOZ9sGnPggguab1vbt4BoCTewQAvD_BwE
-for wireframe 
+- html5 https://www.w3schools.com/html/ 
+- css https://www.w3schools.com/css/css_intro.asp for styling
+- bootstrap 4 https://getbootstrap.com/ to build the grid and make it responsive for all devices
+- Balsamiq for wireframe  https://balsamiq.com/?gclid=CjwKCAjwndvlBRANEiwABrR32Mzzb1wWuG0slcCQDwB1B2W9OBv8pacL7BzOZ9sGnPggguab1vbt4BoCTewQAvD_BwE 
+
 ## Testing
 
 - home page
