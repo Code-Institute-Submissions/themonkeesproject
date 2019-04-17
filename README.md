@@ -4,35 +4,35 @@ A README file for User Centric Frontend Development Milestone Project
 
 ## UX
 
--This website is for made for fans of The Monkees
--Users can learn all about their history
--They can listen the podcasts
--They can buy their products
--They can have fun and explore website
+- This website is for made for fans of The Monkees
+- Users can learn all about their history
+- They can listen the podcasts
+- They can buy their products
+- They can have fun and explore website
 
 ## Features and info
 
--Navbar
+- Navbar
 I used same navbar for all the pages
 Simple Navbar wich extends in a mobile phone size 
 
--Landing page
+- Landing page
 There is carusel with links to all 4 pages and with img background
 And then there is external blank target links to shop,news,articles,podcast and tv show
 and footer with copyrights and social networks (social networks are not visible on xs and i like that because it looks clean)
 
--About us page
+- About us page
 Few img in containers with text from wikipedia
 on the end there is 4 cards with img of the band members
 black and white ones represent 2 deceased members and in color still living
 all of them have link to their wikipedia biography
 
--Multimedia
+- Multimedia
 Istead of audio material provided i choose spotify and i like it better
 Few video embeds i took form youtube
 I am not fully satisfied with this page, I think it should be done with more effects etc.
 
--Contact
+- Contact
 It is simple one
 I dont know what to add more on it
 
@@ -47,22 +47,22 @@ I dont know what to add more on it
 for wireframe 
 ## Testing
 
--home page
+- home page
 it looks responsive on all devices
 there is picture HIRE US from slide 3
 it seems that is having a sml visual problem when carusel is sliding it appears white bottom padding i believe it is because format of 
 picture but not 100% sure. I liked that picture so i didnt want to change it
 
--about us
+- about us
 all links are responsive and containers
 only in mobile phone view i let it to float little bit on the left, I am still thinking about it, is it nice like that or not
 
--multimedia
+- multimedia
 Tested spotyfy and all videos they doing well on all devices
 on xs view looks that videos are maybe too close to each other
 all links working fine
 
--Contact form:
+- Contact form:
      Go to the "Contact Us" page
      Try to submit the empty form and verify that an error message about the required fields appears
      Try to submit the form with an invalid email address and verify that a relevant error message appears
@@ -76,9 +76,9 @@ all links working fine
 
 - The text for about the Monkees was copied from the https://en.wikipedia.org/wiki/The_Monkees
 
--carusel, contact form, nav bar and image cards i copied from bootstrap 4 https://getbootstrap.com/
+- carusel, contact form, nav bar and image cards i copied from bootstrap 4 https://getbootstrap.com/
 
--i
+
 
 
 ### Media
