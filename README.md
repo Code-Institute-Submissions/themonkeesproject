@@ -19,7 +19,7 @@ Simple Navbar wich extends in a mobile phone size
 - Landing page
 There is carusel with links to all 4 pages and with img background
 And then there is external blank target links to shop,news,articles,podcast and tv show
-and footer with copyrights and social networks (social networks are not visible on xs and i like that because it looks clean)
+and footer with copyrights and social networks
 
 - About us page
 Few img in containers with text from wikipedia
